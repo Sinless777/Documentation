@@ -21,4 +21,5 @@ where:
      m_{\perp} = -\left(-\frac{4}{3}\right) = \frac{4}{3}
      $$
 
-This ensures clarity in solving for the perpendicular slope. Let me know if you need any refinements!
+Essentially Just flip the slope.
+
